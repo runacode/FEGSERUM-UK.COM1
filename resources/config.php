@@ -525,7 +525,7 @@ KFormConfig::$campaignData = '{
         },
         "57": {
             "productId": 57,
-            "name": "FEG - EyeBrown (2pcs - 2 months of treatment)",
+            "name": "FEG - EyeBrow (2pcs - 2 months of treatment)",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-uk.com\/resources\/images\/upsell2.jpg",
             "imageId": 2,
